@@ -3,7 +3,7 @@ import { Route, Switch, Redirect } from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 import Navbar from "./components/Navbar";
 import CityPage from "./components/CityPage";
-import cities from "./components/seedCities";
+import cities from "./components/seedCities"; // This file serves as the main data for the App pages.
 import "./App.css";
 
 class App extends Component {
