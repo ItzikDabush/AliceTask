@@ -1,3 +1,5 @@
+// This file serves as the main data for the App.
+
 import amsImg from "../images/amsterdam.png";
 import blnImg from "../images/berlin.png";
 import lndImg from "../images/london.png";
